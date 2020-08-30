@@ -4,7 +4,7 @@ TOC: Moving from WebGL1 to WebGL2
 
 
 WebGL2 is **nearly** 100% backward compatible with WebGL1.
-If you only use WebGL1 features then then there are
+If you only use WebGL1 features then there are
 only 2 **major** differences.
 
 1.  You use `"webgl2"` instead of `"webgl"` when calling `getContext`
