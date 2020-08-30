@@ -514,7 +514,7 @@ First we make the fragment shader take a color uniform input.
 
     precision highp float;
 
-    +  uniform vec4 u_color;
+    +uniform vec4 u_color;
 
     out vec4 outColor;
 
